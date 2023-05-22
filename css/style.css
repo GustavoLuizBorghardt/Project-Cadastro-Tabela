@@ -1,0 +1,58 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 40px;
+    background-color: #F5F5DC	;
+}
+ul{
+    list-style: none;
+}
+ul label{
+    width: 100px;
+    float: left;
+}
+#btnSalvar{
+    border: solid 2px black;
+    background-color: green;
+    font-weight: bolder;
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin-left: 584px;
+}
+input{
+    border: solid 2px;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: aliceblue ;
+}
+#frmCadastro{
+    border: solid 2px;
+    border-radius: 5px;
+}
+#tabela{
+    width: 100%;
+    border: solid 2px;
+    text-align: left;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+#tabela tbody tr{
+    border: solid 2px;
+    height: 40px;
+    border-radius: 5px;
+}
+#tabela thead{
+    background-color: rgb(85, 85, 85);
+    
+}
+#form{
+    margin: 10px;
+}
+label{
+    margin-left: 20px;
+}
+.comprado {
+    background-color: #00ff40;
+}
+.semestoque {
+    background-color: #00ff40;
+}
